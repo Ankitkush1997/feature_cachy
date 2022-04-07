@@ -1,0 +1,42 @@
+
+@font-face {
+  font-family: "AvenirNext-Regular";
+  src: url("./assets/fonts/AvenirNext-Regular-08.ttf") format("truetype"); /* Safari, Android, iOS */
+
+}
+@font-face {
+  font-family: "AvenirNext-medium";
+  src: url("./assets/fonts/AvenirNext-Medium-06.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "AvenirNext-bold";
+  src: url("./assets/fonts/AvenirNext-Bold-01.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "AvenirNext-bold-italic";
+  src: url("./assets/fonts/AvenirNext-BoldItalic-02.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "AvenirNext-demi-bold";
+  src: url("./assets/fonts/AvenirNext-DemiBold-03.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "AvenirNext-demi-bold-italic";
+  src: url("./assets/fonts/AvenirNext-DemiBoldItalic-04.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "AvenirNext-italic";
+  src: url("./assets/fonts/AvenirNext-Italic-05.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+
+
+body,
+html {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  overflow-x: none;
+  font-family: "AvenirNext-demi-bold";
+   
+}
+
